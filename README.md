@@ -6,7 +6,7 @@
 
 
 Connect with developers, build projects, and enhance your skills together. <br /> <br />
-🔗 You can start [here!](https://collabor8-khomch.vercel.app/)
+🔗 You can start [here!](https://collabor8.dev)
 
 
 ## 👨‍👩‍👧‍👦 Members
