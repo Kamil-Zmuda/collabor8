@@ -52,8 +52,8 @@ Grow your skills with Collabor8. Connect, collaborate, and elevate your coding a
 
 <b>Back End:</b>
 * Express
-* Prisma
 * MongoDB
+* Mongoose ODM
 * JSON Web Tokens (JWT)
 * BCrypt
 
